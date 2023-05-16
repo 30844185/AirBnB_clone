@@ -1,3 +1,3 @@
-import datetime
-x = datetime.datetime.now()
-print(x)
+x = 5
+if x < 10:
+  print('x is less than 10') 
